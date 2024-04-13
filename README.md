@@ -1,4 +1,4 @@
-# Five-class classification of heart sound signals using the short-term Fourier transform features
+# Five-class classification of heart sound signals using the Short-Term Fourier Transform features
 
 This repository contains the implementation of a Convolutional Neural Network (CNN) model for the classification of heart sound signals into five categories using short-term Fourier transform (STFT) features. The project aims to enhance the efficiency and accuracy of diagnosing cardiovascular diseases by leveraging machine learning techniques on phonocardiogram (PCG) signals obtained from electronic stethoscopes.
 
@@ -92,5 +92,5 @@ The utilization of STFT features combined with machine learning models shows pro
 For more details, refer to the below resources:
 
 - [First Dataset (500 files)](https://github.com/yaseen21khan/Classification-of-Heart-Sound-Signal-Using-Multiple-Features)
--
+- [Second Dataset (1000 files)](https://github.com/yaseen21khan/Classification-of-Heart-Sound-Signal-Using-Multiple-Features-/blob/master/README.md#matlab-code-heart-sound-signal-processing-mfcc-features)
 - [EDA-Audio Classification Project Using Deep Learning](https://www.youtube.com/watch?v=mHPpCXqQd7Y&t=207s)
